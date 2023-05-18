@@ -65,12 +65,8 @@ for i in range(new_height):
         font.color.rgb = RGBColor(*pixels[j,i])
 # Save the document to a file
 document.save('/content/drive/MyDrive/steganography/colored_text.docx')
-```
+
 You can observe the coloured text in the docx file in word file keeping font_size = 1 and font = Courier New
-[source image]("https://drive.google.com/file/d/1kIFg-e7GddMdL4tverpcvOUEVrUhF8Yf/view?usp=share_link") + [docx]("https://docs.google.com/document/d/1oQzVQX1CTN8cnbxK-66f1K-wPlYDjpna/edit?usp=share_link&ouid=100409726951559877182&rtpof=true&sd=true") --> [docx file with image coloured text]("https://docs.google.com/document/d/1--Ee0dJ9xZljdRWlAMmg1CKMYLeWrDj7/edit?usp=share_link&ouid=100409726951559877182&rtpof=true&sd=true") 
-
-
---
-
-[NEERUKONDA VENKATA SRINIVAS](neerukonda.1@iitj.ac.in)
-
+[source image]("https://drive.google.com/file/d/1kIFg-e7GddMdL4tverpcvOUEVrUhF8Yf/view?usp=share_link") + 
+[docx]("https://docs.google.com/document/d/1oQzVQX1CTN8cnbxK-66f1K-wPlYDjpna/edit usp=share_link&ouid=100409726951559877182&rtpof=true&sd=true") 
+== [docx file with image coloured text]("https://docs.google.com/document/d/1--Ee0dJ9xZljdRWlAMmg1CKMYLeWrDj7/edit?usp=share_link&ouid=100409726951559877182&rtpof=true&sd=true")
