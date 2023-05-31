@@ -1,4 +1,4 @@
-# Steganography
+# Hiding Image in text file
 # Importing libraries and necessaries
 
 Import  required libraries to open/access docx file and to access pixels in image PIL library and mount the ipynb to drive  to access files in the drive(Here files are in/MyDrive/steganography folder)/we can give inputs directly in vscode itself
